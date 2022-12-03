@@ -616,7 +616,7 @@ section {
 }
 
 #header.header-scrolled {
-  background: rgba(39, 70, 133, 0.8);
+  background: rgba(4, 147, 21, 0.8);
   height: 60px;
 }
 
@@ -783,7 +783,7 @@ section {
   right: 0;
   left: 0;
   bottom: 0;
-  background: rgba(27, 49, 94, 0.9);
+  background: rgba(15, 180, 9, 0.9);
   transition: 0.3s;
   z-index: 999;
 }
