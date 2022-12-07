@@ -75,9 +75,9 @@ section {
 }
 
 .section-heading {
-  font-size: 3rem;
-  font-weight: 700;
-  background: linear-gradient(-45deg, #3db3c5, #274685);
+  font-size: 2rem;
+  font-weight: 500;
+  background: linear-gradient(-45deg, #047b02, #0da868);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
